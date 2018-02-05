@@ -1,0 +1,19 @@
+.hide{
+    display: none;
+}
+.pg-header{
+    height: 48px;
+    background-color: chocolate;
+}
+.item .header{
+    padding: 10px 0;
+}
+.item .body{
+    padding-left: 30px;
+}
+.item .body a{
+    display: block;
+}
+.item .body a.active{
+    color: red;
+}
